@@ -1,5 +1,9 @@
 # Tests
 
+- https://3v4l.org/aoqfj
+- https://3v4l.org/OgsU5
+
+
 ```
 S:\bench>"./vendor/bin/phpbench.bat" run src/ComparatorBench.php --report=default
 PHPBench @git_tag@ running benchmarks...
