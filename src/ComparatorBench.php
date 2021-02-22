@@ -17,6 +17,7 @@ class ComparatorBench
 
         yield [$sortedArray, $sortedArray];
         yield [$shuffledArray, $shuffledArray];
+        yield [[1, 2, 3], [1, 2, 3]]; // best case for sorting, but diff still wins
     }
 
     /**
